@@ -1,7 +1,7 @@
 # Problem Statement -
 There are times when a user writes Good, Nice App or any other positive text, in the review and gives 1-star rating. The goal is to identify the reviews where the semantics of review text does not match rating.
-
-The data is in csv format.
+# Data 
+* The data is in csv format.
 
 # Deploy App using Flask .
 * Clone the repository
