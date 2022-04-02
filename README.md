@@ -3,10 +3,10 @@ There are times when a user writes Good, Nice App or any other positive text, in
 
 The data is in csv format.
 
-# Deployed the app using Flask .
+# Deploy App using Flask .
 * Clone the repository
 * Install Flask Using
-* $ pip install Flask
+ '$ pip install Flask'
 * Run main.py
 
 * User have to upload csv file in the app and the app will detect the index of the data where ratings and sentiments of reviews are not matching.
