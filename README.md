@@ -6,7 +6,7 @@ The data is in csv format.
 # Deploy App using Flask .
 * Clone the repository
 * Install Flask Using
- '$ pip install Flask'
+ '''$ pip install Flask'''
 * Run main.py
 
 * User have to upload csv file in the app and the app will detect the index of the data where ratings and sentiments of reviews are not matching.
