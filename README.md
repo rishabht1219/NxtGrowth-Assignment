@@ -42,8 +42,8 @@ This Flask application processes uploaded CSV files to analyze text data and ide
 
 
 ## Acknowledgements
--Flask
--Pandas
--NLTK
--Contact
+* Flask
+* Pandas
+* NLTK
+## Contact:
    If you have any questions or suggestions, feel free to reach out to rishabht1219@gmail.com.
